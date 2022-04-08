@@ -1,1 +1,1 @@
-# devopswithdocker
+# Exercise answers for the course DevOpsWithDocker by the University of Helsinki

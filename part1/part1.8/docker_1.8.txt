@@ -1,0 +1,4 @@
+1. Made the docker file and command shell file
+2. docker build . -t curler
+3. docker run -it curler
+4. input helsinki.fi

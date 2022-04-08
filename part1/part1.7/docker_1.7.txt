@@ -1,0 +1,3 @@
+1.Made a docker file containing 2 lines which is added in the folder.
+2. docker build . -t web-server
+3. docker run web-server

@@ -1,0 +1,13 @@
+1. docker pull devopsdockeruh/simple-web-service:ubuntu
+2. docker pull devopsdockeruh/simple-web-service:alpine
+3. docker images -> ubuntu = 83mb, alpine = 15.7mb
+4. docker run elated_albattani
+5. docker exec -it elated_albattani sh
+6. cat text.log 
+
+    2022-04-07 13:17:16 +0000 UTC
+    2022-04-07 13:17:18 +0000 UTC
+    2022-04-07 13:17:20 +0000 UTC
+    2022-04-07 13:17:22 +0000 UTC
+    2022-04-07 13:17:24 +0000 UTC
+    Secret message is: 'You can find the source code here: https://github.com/docker-hy'
