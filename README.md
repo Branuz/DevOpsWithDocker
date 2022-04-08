@@ -1,1 +1,1 @@
-# Exercise answers for the course DevOpsWithDocker by the University of Helsinki
+<h2>Exercise answers for the course DevOpsWithDocker</h2>
