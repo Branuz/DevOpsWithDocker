@@ -1,0 +1,3 @@
+1. Placed dockerfile & run.sh into the spring-example-project directory
+2. Ran command docker build . -t spring-program
+3. Ran command docker run -p 8080:8080 spring-program
